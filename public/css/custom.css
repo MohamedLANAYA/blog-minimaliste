@@ -1,0 +1,34 @@
+/* body {
+    background-color: #f8f9fa;  Couleur de fond claire 
+    font-family: Arial, sans-serif;
+}
+.navbar .btn {
+    margin-right: 20px; Espacement entre les boutons 
+}
+
+.navbar .btn:last-child {
+    margin-right: 3;  Supprime l'espacement après le dernier bouton 
+}
+
+.navbar-brand {
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.footer {
+    background-color: #0762bc;
+    color: #fff;
+    padding: 20px 0;
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: cover; Assure que les images remplissent bien l'espace 
+    border-radius: 5px;
+}
+@media (max-width: 576px) {
+    .navbar .btn {
+        margin-bottom: 10px;  Espacement vertical pour petits écrans 
+    }
+} 
+*/
